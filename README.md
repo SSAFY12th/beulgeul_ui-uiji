@@ -40,6 +40,22 @@
 | **이해수** |     | [GitHub](https://github.com/haesoooo) | [블로그]() |
 | **김윤배** |     | [GitHub](https://github.com/kub938) | [블로그]() |
 
+## 멤버
+
+|                                              |                                              |                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중** | <br> **심규빈** |
+| [GitHub](https://github.com/jongchan0109)   | [GitHub](https://github.com/kimdevspace)    | [GitHub](https://github.com/SIM-GYUBIN)     |
+| [블로그](https://velog.io/@jongchan)        | [블로그]()                                  | [블로그]()                                  |
+|  <br> **김수영** | <br> **김찬우** |  <br> **이해수** |
+| [GitHub](https://github.com/dongaseu)       | [GitHub](https://github.com/chanu2)         | [GitHub](https://github.com/haesoooo)       |
+| [블로그]()                                  | [블로그]()                                  | [블로그]()                                  |
+|  <br> **김윤배** |                                              |                                              |
+| [GitHub](https://github.com/kub938)          |                                              |                                              |
+| [블로그]()                                  |                                              |                                              |
+
+
+
 
 ### 스터디 진행 상황 체크리스트
 
