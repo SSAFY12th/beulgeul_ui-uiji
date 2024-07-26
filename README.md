@@ -32,7 +32,7 @@
 ## 멤버
 |            | 사진               | GitHub                    | 블로그                   |
 |------------|--------------------|---------------------------|--------------------------|
-| **김종찬** | !<img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="이모지" width="200"/>    | [GitHub](https://github.com/jongchan0109) | [블로그](https://kimjongchan.dev) |
+| **김종찬** | !<img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="이모지" width="200"/>    | [GitHub](https://github.com/jongchan0109) | [블로그](https://velog.io/@jongchan) |
 | **김의중** | ![김의중 사진]()    | [GitHub](https://github.com/kimdevspace) | [블로그]()   |
 | **심규빈** | ![심규빈 사진]()    | [GitHub](https://github.com/SIM-GYUBIN) | [블로그]() |
 | **김수영** | ![김찬우 사진]()    | [GitHub](https://github.com/dongaseu) | [블로그]() |
