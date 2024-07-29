@@ -28,31 +28,19 @@
 * **책임감**: 스터디 참여를 통한 책임감 유지
 * **피드백**: 작성한 포스트에 대한 피드백을 적극적으로 반영
 
-
-## 멤버
-|            | 사진               | GitHub                    | 블로그                   |
-|------------|--------------------|---------------------------|--------------------------|
-| **김종찬** | <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="이모지" width="200"/>    | [GitHub](https://github.com/jongchan0109) | [블로그](https://velog.io/@jongchan) |
-| **김의중** |    | [GitHub](https://github.com/kimdevspace) | [블로그]()   |
-| **심규빈** |   | [GitHub](https://github.com/SIM-GYUBIN) | [블로그]() |
-| **김수영** |     | [GitHub](https://github.com/dongaseu) | [블로그]() |
-| **김찬우** |     | [GitHub](https://github.com/chanu2) | [블로그]() |
-| **이해수** |     | [GitHub](https://github.com/haesoooo) | [블로그]() |
-| **김윤배** |     | [GitHub](https://github.com/kub938) | [블로그]() |
-
 ## 멤버
 
-|                                              |                                              |                                              |
-|----------------------------------------------|----------------------------------------------|----------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중** | <br> **심규빈** |
-| [GitHub](https://github.com/jongchan0109)   | [GitHub](https://github.com/kimdevspace)    | [GitHub](https://github.com/SIM-GYUBIN)     |
-| [블로그](https://velog.io/@jongchan)        | [블로그]()                                  | [블로그]()                                  |
-|  <br> **김수영** | <br> **김찬우** |  <br> **이해수** |
-| [GitHub](https://github.com/dongaseu)       | [GitHub](https://github.com/chanu2)         | [GitHub](https://github.com/haesoooo)       |
-| [블로그]()                                  | [블로그]()                                  | [블로그]()                                  |
-|  <br> **김윤배** |                                              |                                              |
-| [GitHub](https://github.com/kub938)          |                                              |                                              |
-| [블로그]()                                  |                                              |                                              |
+|                                              |                                          |                                         |
+|----------------------------------------------|------------------------------------------|-----------------------------------------|
+| <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중**                             | <br> **심규빈**                            |
+| [GitHub](https://github.com/jongchan0109)   | [GitHub](https://github.com/kimdevspace) | [GitHub](https://github.com/SIM-GYUBIN) |
+| [블로그](https://velog.io/@jongchan)        | [블로그]()                                  | [블로그]()                                 |
+|  <br> **김수영** | <br> **김찬우**                             | <br> **이해수**                            |
+| [GitHub](https://github.com/dongaseu)       | [GitHub](https://github.com/chanu2)      | [GitHub](https://github.com/haesoooo)   |
+| [블로그]()                                  | [블로그]()                                  | [블로그]()                                 |
+|  <br> **김윤배** |                                          | <br> **김주희**                            |
+| [GitHub](https://github.com/kub938)          | [GitHub] (https://github.com/orgs/SSAFY12th/people/kimjuheee)                              |                                         |
+| [블로그]()                                  |  [블로그]()                                         |                                         |
 
 
 
