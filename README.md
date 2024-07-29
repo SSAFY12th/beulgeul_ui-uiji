@@ -32,7 +32,7 @@
 
 |                                              |                                          |                                         |
 |----------------------------------------------|------------------------------------------|-----------------------------------------|
-| <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중**                             | <br> **심규빈**                            |
+| <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중**                             | <img src="https://github.com/user-attachments/assets/77c0c66a-8854-408c-9a53-08ba598008eb" alt="심규빈" width="200"/> <br> **심규빈**                            |
 | [GitHub](https://github.com/jongchan0109)   | [GitHub](https://github.com/kimdevspace) | [GitHub](https://github.com/SIM-GYUBIN) |
 | [블로그](https://velog.io/@jongchan)        | [블로그]()                                  | [블로그]()                                 |
 |  <br> **김수영** | <br> **김찬우**                             | <br> **이해수**                            |
