@@ -38,8 +38,8 @@
 |  <br> **김수영** | <br> **김찬우**                             | <br> **이해수**                            |
 | [GitHub](https://github.com/dongaseu)       | [GitHub](https://github.com/chanu2)      | [GitHub](https://github.com/haesoooo)   |
 | [블로그]()                                  | [블로그]()                                  | [블로그]()                                 |
-|  <br> **김윤배** |                                          | <br> **김주희**                            |
-| [GitHub](https://github.com/kub938)          | [GitHub] (https://github.com/orgs/SSAFY12th/people/kimjuheee)                              |                                         |
+|  <br> **김윤배** | <br> **김주희**                                         |                             |
+| [GitHub](https://github.com/kub938)          | [GitHub](https://github.com/orgs/SSAFY12th/people/kimjuheee)                              |                                         |
 | [블로그]()                                  |  [블로그]()                                         |                                         |
 
 
