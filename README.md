@@ -40,7 +40,7 @@
 | [블로그](https://velog.io/@goodnessy/posts) | [블로그](https://velog.io/@chanu2/posts)| [블로그](https://velog.io/@haesooo/posts)                                 |
 |  <br> **김윤배** | <br> **김주희** |                             |
 | [GitHub](https://github.com/kub938)   | [GitHub](https://github.com/orgs/SSAFY12th/people/kimjuheee) |                                         |
-| [블로그]()                               | [블로그](https://mo9umo9u.tistory.com/)  | |
+| [블로그](https://velog.io/@kub938/posts)  | [블로그](https://mo9umo9u.tistory.com/)  | |
 
 
 
