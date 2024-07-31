@@ -35,7 +35,7 @@
 | <img src="https://github.com/user-attachments/assets/b3ea5d97-1c50-4929-8df2-2810183843c9" alt="김종찬" width="200"/> <br> **김종찬** | <br> **김의중** | <img src="https://github.com/user-attachments/assets/77c0c66a-8854-408c-9a53-08ba598008eb" alt="심규빈" width="200"/> <br> **심규빈**                            |
 | [GitHub](https://github.com/jongchan0109) | [GitHub](https://github.com/kimdevspace) | [GitHub](https://github.com/SIM-GYUBIN) |
 | [블로그](https://velog.io/@jongchan) | [블로그](https://ejk5148.tistory.com/)  | [블로그](https://velog.io/@skb0516/posts) |
-|  <br> **김수영** | <br> **김찬우** | <br> **이해수** |
+|  <br> **김수영** | <img src= "https://github.com/user-attachments/assets/a073e26b-162d-4917-be47-057864e600e9" alt="김찬우" width="200" /><br> **김찬우** | <br> **이해수** |
 | [GitHub](https://github.com/dongaseu) | [GitHub](https://github.com/chanu2) | [GitHub](https://github.com/haesoooo)   |
 | [블로그](https://velog.io/@goodnessy/posts) | [블로그](https://velog.io/@chanu2/posts)| [블로그](https://velog.io/@haesooo/posts)                                 |
 |  <br> **김윤배** | <br> **김주희** |                             |
