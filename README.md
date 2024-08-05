@@ -38,7 +38,7 @@
 |  <img src="https://github.com/user-attachments/assets/c40460b5-5d80-4bfc-bf2d-14464d7d7293" alt="김수영" width="200"/> <br> **김수영** | <img src= "https://github.com/user-attachments/assets/a073e26b-162d-4917-be47-057864e600e9" alt="김찬우" width="200" /><br> **김찬우** |<img src="https://static.some.co.kr/sometrend/attachments/content/dfdfe2bf-0922-490a-970b-14f1abb64fea/img10.jpg" alt="이해수" width="200"/><br> **이해수** |
 | [GitHub](https://github.com/dongaseu) | [GitHub](https://github.com/chanu2) | [GitHub](https://github.com/haesoooo)   |
 | [블로그](https://velog.io/@goodnessy/posts) | [블로그](https://velog.io/@chanu2/posts)| [블로그](https://velog.io/@haesooo/posts)                                 |
-|  <br> **김윤배** | ![아기오리](https://github.com/user-attachments/assets/9e46cf14-7733-4ecf-8c96-201013bb24f7)<br> **김주희** |                             |
+|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBsSXW1q4YS0I0SpQaix1331q0QVeaRDkQw&s"> <br> **김윤배** | ![아기오리](https://github.com/user-attachments/assets/9e46cf14-7733-4ecf-8c96-201013bb24f7)<br> **김주희** |                             |
 | [GitHub](https://github.com/kub938)   | [GitHub](https://github.com/orgs/SSAFY12th/people/kimjuheee) |                                         |
 | [블로그](https://velog.io/@kub938/posts)  | [블로그](https://mo9umo9u.tistory.com/)  | |
 
