@@ -30,47 +30,47 @@
 
 ## 멤버
 
-|                                       |                                                              |                                         |
-|---------------------------------------|--------------------------------------------------------------|-----------------------------------------|
-| <img src="https://github.com/user-attachments/assets/cd27d5ec-378f-4921-80e7-b6a803bad8fa" alt="김종찬" width="200"/> <br> **김종찬** | <img src="https://avatars.githubusercontent.com/u/158041455?s=400&u=fc13ed6012858317ec24822efc41b8b022810d7b&v=4"> <br> **김의중** | <img src="https://github.com/user-attachments/assets/77c0c66a-8854-408c-9a53-08ba598008eb" alt="심규빈" width="200"/> <br> **심규빈**                            |
+|                                    |                                                            |                                        |
+|------------------------------------|------------------------------------------------------------|----------------------------------------|
+| <img src="https://github.com/user-attachments/assets/cd27d5ec-378f-4921-80e7-b6a803bad8fa" alt="김종찬" width="200"/> <br> **김종찬** | <img src="https://avatars.githubusercontent.com/u/158041455?s=400&u=fc13ed6012858317ec24822efc41b8b022810d7b&v=4"> <br> **김의중** | <img src="https://github.com/user-attachments/assets/77c0c66a-8854-408c-9a53-08ba598008eb" alt="심규빈" width="200"/> <br> **심규빈**                           |
 | [GitHub](https://github.com/jongchan0109) | [GitHub](https://github.com/kimdevspace) | [GitHub](https://github.com/SIM-GYUBIN) |
-| [블로그](https://velog.io/@jongchan) | [블로그](https://ejk5148.tistory.com/)  | [블로그](https://velog.io/@skb0516/posts) |
-|  <img src="https://github.com/user-attachments/assets/c40460b5-5d80-4bfc-bf2d-14464d7d7293" alt="김수영" width="200"/> <br> **김수영** | <img src= "https://github.com/user-attachments/assets/fd99f301-a247-4394-b201-0d1668cac7e1" alt="김찬우" width="200" /><br> **김찬우** |<img src="https://static.some.co.kr/sometrend/attachments/content/dfdfe2bf-0922-490a-970b-14f1abb64fea/img10.jpg" alt="이해수" width="200"/><br> **이해수** |
-| [GitHub](https://github.com/dongaseu) | [GitHub](https://github.com/chanu2) | [GitHub](https://github.com/haesoooo)   |
-| [블로그](https://velog.io/@goodnessy/posts) | [블로그](https://velog.io/@chanu2/posts)| [블로그](https://velog.io/@haesooo/posts)                                 |
-|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBsSXW1q4YS0I0SpQaix1331q0QVeaRDkQw&s"> <br> **김윤배** | ![아기오리](https://github.com/user-attachments/assets/9e46cf14-7733-4ecf-8c96-201013bb24f7)<br> **김주희** |                             |
-| [GitHub](https://github.com/kub938)   | [GitHub](https://github.com/orgs/SSAFY12th/people/kimjuheee) |                                         |
-| [블로그](https://velog.io/@kub938/posts)  | [블로그](https://mo9umo9u.tistory.com/)  | |
+| [블로그](https://velog.io/@jongchan) | [블로그](https://ejk5148.tistory.com/) | [블로그](https://velog.io/@skb0516/posts) |
+| <img src= "https://github.com/user-attachments/assets/fd99f301-a247-4394-b201-0d1668cac7e1" alt="김찬우" width="200" /><br> **김찬우** |<img src="https://static.some.co.kr/sometrend/attachments/content/dfdfe2bf-0922-490a-970b-14f1abb64fea/img10.jpg" alt="이해수" width="200"/><br> **이해수** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBsSXW1q4YS0I0SpQaix1331q0QVeaRDkQw&s"> <br> **김윤배** |
+| [GitHub](https://github.com/chanu2) | [GitHub](https://github.com/haesoooo) | [GitHub](https://github.com/kub938)|
+| [블로그](https://velog.io/@chanu2/posts)| [블로그](https://velog.io/@haesooo/posts) |[블로그](https://velog.io/@kub938/posts) |
+|  ![아기오리](https://github.com/user-attachments/assets/9e46cf14-7733-4ecf-8c96-201013bb24f7)<br> **김주희** |                           |
+|  [GitHub](https://github.com/orgs/SSAFY12th/people/kimjuheee) | | |
+|  [블로그](https://mo9umo9u.tistory.com/)  | | |
 
 
 
 
 ### 스터디 진행 상황 체크리스트
 
-| 날짜              | 김종찬 | 김의중 | 심규빈 | 김수영 | 김찬우 | 이해수 | 김윤배 | 김주희 |
-|-------------------|--------|--------|--------|--------|--------|--------|--------|--------|
-| 2024-07-29~08-04 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| 2024-08-05~08-11 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| 2024-08-12~08-18 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| 2024-08-19~08-25 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| 2024-08-26~09-01 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| 2024-09-02~09-08 |        |        |        |        |        |        |        |        |
-| 2024-09-09~09-15 |        |        |        |        |        |        |        |        |
-| 2024-09-16~09-22 |        |        |        |        |        |        |        |        |
-| 2024-09-23~09-29 |        |        |        |        |        |        |        |        |
-| 2024-09-30~10-06 |        |        |        |        |        |        |        |        |
-| 2024-10-07~10-13 |        |        |        |        |        |        |        |        |
-| 2024-10-14~10-20 |        |        |        |        |        |        |        |        |
-| 2024-10-21~10-27 |        |        |        |        |        |        |        |        |
-| 2024-10-28~11-03 |        |        |        |        |        |        |        |        |
-| 2024-11-04~11-10 |        |        |        |        |        |        |        |        |
-| 2024-11-11~11-17 |        |        |        |        |        |        |        |        |
-| 2024-11-18~11-24 |        |        |        |        |        |        |        |        |
-| 2024-11-25~12-01 |        |        |        |        |        |        |        |        |
-| 2024-12-02~12-08 |        |        |        |        |        |        |        |        |
-| 2024-12-09~12-15 |        |        |        |        |        |        |        |        |
-| 2024-12-16~12-22 |        |        |        |        |        |        |        |        |
-| 2024-12-23~12-29 |        |        |        |        |        |        |        |        |
+| 날짜              | 김종찬 | 김의중 | 심규빈  | 김찬우 | 이해수 | 김윤배 | 김주희 |
+|-------------------|--------|-------|-------|--------|--------|--------|--------|
+| 2024-07-29~08-04 |   ✅   |   ✅   |   ✅  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-08-05~08-11 |   ✅   |   ✅   |   ✅  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-08-12~08-18 |   ✅   |   ✅   |   ✅  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-08-19~08-25 |   ✅   |   ✅   |   ✅  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-08-26~09-01 |   ✅   |   ✅   |   ✅  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-09-02~09-08 |   ✅   |   ✅   |   ❌  |   ✅   |   ✅   |   ✅   |   ✅   |
+| 2024-09-09~09-15 |        |       |       |       |        |        |        |
+| 2024-09-16~09-22 |        |       |       |       |        |        |        |
+| 2024-09-23~09-29 |        |       |       |       |        |        |        |
+| 2024-09-30~10-06 |        |       |       |       |        |        |        |
+| 2024-10-07~10-13 |        |       |       |       |        |        |        |
+| 2024-10-14~10-20 |        |       |       |       |        |        |        |
+| 2024-10-21~10-27 |        |       |       |       |        |        |        |
+| 2024-10-28~11-03 |        |       |       |       |        |        |        |
+| 2024-11-04~11-10 |        |       |       |       |        |        |        |
+| 2024-11-11~11-17 |        |       |       |       |        |        |        |
+| 2024-11-18~11-24 |        |       |       |       |        |        |        |
+| 2024-11-25~12-01 |        |       |       |       |        |        |        |
+| 2024-12-02~12-08 |        |       |       |       |        |        |        |
+| 2024-12-09~12-15 |        |       |       |       |        |        |        |
+| 2024-12-16~12-22 |        |       |       |       |        |        |        |
+| 2024-12-23~12-29 |        |       |       |       |        |        |        |
 
 #### 사용법
 - 매주 월요일 포스트를 확인한 후, 포스트를 한 사람에게는 ✅체크를, 하지 않은 사람에게는 ❌체크를 하겠습니다.
